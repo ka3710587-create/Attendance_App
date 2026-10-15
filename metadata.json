@@ -1,0 +1,6 @@
+{
+  "name": "GPI Gilgit",
+  "description": "Smart Attendance System for Govt. Polytechnical Institute Gilgit across Civil, Electrical, and CIT technologies with real-time faculty and student dashboards, monthly reports, and automated SMS & push alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
